@@ -4,6 +4,6 @@
   "description": "An intro to Socket.IO",
   "dependencies": {
     "socket.io": "^4.8.0",
-    "express": "^4.21.2"
+    "express": "^4.22.2"
   }
 }
